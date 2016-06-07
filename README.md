@@ -1,7 +1,7 @@
 flexicontent-cck
 ================
 
-Advanced Content Manager and CCK for Joomla
+Advanced Content Manager and CCK for Joomla!
 
 FLEXIcontent is an advanced content management system developed to greatly enhance the native article manager of Joomla! (com_content)
 
